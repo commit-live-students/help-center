@@ -14,13 +14,13 @@ Yes. If you are unable to use the IDE due to your operating system not meeting t
 
 Is there a red Commit Live...reconnect? warning at the bottom right of the terminal? 
 
-[Check Screenshot](https://s3.ap-south-1.amazonaws.com/commit.live.ide/ide-disconnected.png)
+[Click here to check how it looks](https://s3.ap-south-1.amazonaws.com/commit.live.ide/ide-disconnected.png)
 
 To reconnect go to Packages-->Commit Live-->Reconnect.
 
-[Check Screenshot](https://s3.ap-south-1.amazonaws.com/commit.live.ide/ide-reconnect.png)
+[Click here to check how it looks](https://s3.ap-south-1.amazonaws.com/commit.live.ide/ide-reconnect.png)
 
 If you are connected you will see the following bottom right of the terminal in gree color:
 
-[Check Screenshot](https://s3.ap-south-1.amazonaws.com/commit.live.ide/ide-connected.png)
+[Click here to check how it looks](https://s3.ap-south-1.amazonaws.com/commit.live.ide/ide-connected.png)
 
