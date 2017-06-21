@@ -40,5 +40,14 @@ or
 
 Then ask for help from the Commit.live at tech@greyatom.com
 
+# Can I use Commit.Live IDE across more than one computer? 
+
+Yes, the Commit.Live IDE can be used across multiple computers.
+
+Instructions to get an already started or already completed lab from one computer to another with the Commit.Live IDE:
+
+1. From the computer that has your latest work, make sure your code has been pushed up to GitHub by using `clive Submit`
+
+The Commit.Live IDE will now have an updated copy of your work, and will automatically remain synced to new computer. If you want to switch back to a different computer, you'll need to follow the above steps again.
 
 
