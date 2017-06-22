@@ -91,5 +91,19 @@ Quit and restart the IDE. JUST PRESSING THE (X) AT THE TOP OF THE WINDOW AND CLO
 
 Right click on the folder where you would like to add the file/folder to the Commit.Live IDE. Select Add File/Add Folder and add the name of file/folder. 
 
+# I keep getting a “Reconnecting...” message, how can I fix this?
+
+Most likely your ports are blocked on your network. Let’s try checking for this using the following steps:
+
+In your local Terminal for Ubuntu, Mac and Command Prompt in windows (NOT THE COMMIT.LIVE IDE), 
+run: `telnet 35.154.245.107 3000` and `telnet 35.154.245.107 3000`. After you run each command, you'll have to use ctrl + c to kill the connection. Each command should return something that looks like this:
+
+```
+Trying 35.154.245.107...
+Connected to ec2-35-154-245-107.ap-south-1.compute.amazonaws.com.
+Escape character is '^]'.
+```
+
+If telnet command returns something like: `Could not open connection to the host on port xxxx`, then there is an issue with the your network settings and we recommend trying to use a different network (try using a different netweork and see if it works. You can also try downloading a VPN and connecting through that).
 
 
