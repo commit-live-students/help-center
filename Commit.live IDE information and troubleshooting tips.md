@@ -10,6 +10,8 @@ Windows 8+ (10 preferred)
 
 Yes. If you are unable to use the IDE due to your operating system not meeting the requirements, please email tech@greyatom.com
 
+# can IDE works without internet?
+
 # How can I change the font size in the IDE terminal? In the text editor?
 
 `CTRL + +/-` on Ubuntu, `CMD + +/-` on Mac, `ALT + up/down` on Windows.
