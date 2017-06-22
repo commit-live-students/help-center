@@ -81,3 +81,15 @@ If that is the case, go to app.commit.lve and open the current lessson and copy 
 Copy eveything after `https://app.commit.live/lesson/` from URL. In this case it is `intro-to-python-intermediate`
 
 Now command you have to run in IDE terminal would be `clive open intro-to-python-intermediate`. That should open the proper lab.
+
+# My IDE does not show the file tree, how can I get it to appear? 
+
+Quit and restart the IDE. JUST PRESSING THE (X) AT THE TOP OF THE WINDOW AND CLOSING IT IS NOT ENOUGH, you must close the Commit.Live IDE by using the menu options.
+
+
+# How can I add file/folder to my repo using the IDE?
+
+Right click on the folder where you would like to add the file/folder to the Commit.Live IDE. Select Add File/Add Folder and add the name of file/folder. 
+
+
+
