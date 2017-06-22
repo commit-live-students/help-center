@@ -26,7 +26,7 @@ Right click on the folder where you would like to add the file/folder to the Com
 
 You can go to Packages-->Commit Live-->Log In/Out 
 
-![ide-log-in-out.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-log-in-out.png)
+![ide-log-in-out.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/log-in-out.png)
 
 Once you do that You will see signup page with Github(Use same Github account you used before for Commit.Live ) like below
 
