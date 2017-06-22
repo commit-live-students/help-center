@@ -66,11 +66,11 @@ If you are not using multiple computers, Quit and restart the IDE. JUST PRESSING
 
 # I installed the IDE and now Atom doesn't work?
 
-The current version of Commit.Live IDE and Atom both can't work together. You need to uninstall Atom editor before installing Commit.Live IDE.
+The current version of Commit.Live IDE and Atom both can't work together. You need to uninstall Atom editor before installing Commit.Live IDE. Uninstall both Atom and IDE and do the fresh installation of Commit.Live IDE.
 
 # When I click on the Commit.live Open button, it does not open the IDE. How to solve this? 
 
-if you also have Atom editor installed see the information above(I installed the IDE and now Atom doesn't work). 
+If you already have Atom editor installed see the information above(I installed the IDE and now Atom doesn't work). 
 
 Then open the IDE manually and while the IDE is open, click on the Commit.Live open button and it should open in the IDE.
 
