@@ -14,6 +14,10 @@ Yes. If you are unable to use the IDE due to your operating system not meeting t
 
 No, IDE requires persistence internet connection to work. Without internet it will not work at all.
 
+# How can I add file/folder to my repo using the IDE?
+
+Right click on the folder where you would like to add the file/folder to the Commit.Live IDE. Select Add File/Add Folder and add the name of file/folder. 
+
 # How can I change the font size in the IDE terminal? In the text editor?
 
 `CTRL + +/-` on Ubuntu, `CMD + +/-` on Mac, `ALT + up/down` on Windows.
@@ -89,11 +93,6 @@ Now command you have to run in IDE terminal would be `clive open intro-to-python
 # My IDE does not show the file tree, how can I get it to appear? 
 
 Quit and restart the IDE. JUST PRESSING THE (X) AT THE TOP OF THE WINDOW AND CLOSING IT IS NOT ENOUGH, you must close the Commit.Live IDE by using the menu options.
-
-
-# How can I add file/folder to my repo using the IDE?
-
-Right click on the folder where you would like to add the file/folder to the Commit.Live IDE. Select Add File/Add Folder and add the name of file/folder. 
 
 # I keep getting a “Reconnecting...” message, how can I fix this?
 
