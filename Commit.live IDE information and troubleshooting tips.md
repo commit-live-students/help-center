@@ -24,7 +24,7 @@ Right click on the folder where you would like to add the file/folder to the Com
 
 # How can I Reload/Refresh the IDE?
 
-Press `CTRL+SHIFT+P` on Ubuntu, `CTRL+SHIFT+P` on Mac, `+SHIFT+P` on Windows. Now type `Windows:Reload` and hit enter. This will reload the IDE 
+Press `CTRL+SHIFT+P` on Ubuntu, `CMD+SHIFT+P` on Mac, `CTRL+SHIFT+P` on Windows. Now type `Windows:Reload` and hit enter. This will reload the IDE.
 
 ![ide-reload.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-reload.png)
 
