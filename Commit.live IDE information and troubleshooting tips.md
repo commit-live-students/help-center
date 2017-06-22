@@ -68,12 +68,16 @@ If you are not using multiple computers, Quit and restart the IDE. JUST PRESSING
 
 The current version of Commit.Live IDE and Atom both can't work together. You need to uninstall Atom editor before installing Commit.Live IDE. Uninstall both Atom and IDE and do the fresh installation of Commit.Live IDE.
 
-# When I click on the Commit.live Open button, it does not open the IDE. How to solve this? 
+# When I click on the Commit.live Open button, it does not open the IDE
 
 If you already have Atom editor installed see the information above(I installed the IDE and now Atom doesn't work). 
 
 Then open the IDE manually and while the IDE is open, click on the Commit.Live open button and it should open in the IDE.
 
+# The 'clive open' command in the IDE is opening the wrong lab
 
+If that is the case, go to app.commit.lve and open the current lessson and copy lesson name form URL. For example if you current lesson is Introduction to Python Intermediate your URL will look like `https://app.commit.live/lesson/intro-to-python-intermediate`
 
+Copy eveything after `https://app.commit.live/lesson/` from URL. In this case it is `intro-to-python-intermediate`
 
+Now command you have to run in IDE terminal would be `clive open intro-to-python-intermediate`. That should open the proper lab.
