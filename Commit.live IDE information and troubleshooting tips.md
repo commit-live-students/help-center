@@ -22,6 +22,14 @@ Right click on the folder where you would like to add the file/folder to the Com
 
 `CTRL + +/-` on Ubuntu, `CMD + +/-` on Mac, `ALT + up/down` on Windows.
 
+# How can I Reload/Refresh the IDE?
+
+Press `CTRL+SHIFT+P` on Ubuntu, `CTRL+SHIFT+P` on Mac, `+SHIFT+P` on Windows. Now type `Windows:Reload` and hit enter. This will reload the IDE 
+
+![ide-reload.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-reload.png)
+
+If above instruction does not work then quit and restart the IDE. JUST PRESSING THE (X) AT THE TOP OF THE WINDOW AND CLOSING IT IS NOT ENOUGH, you must close the Commit.Live IDE by using the menu options.
+
 # The IDE isn't working for me. The text is "Unable to connect to Commit Live" in the terminal and I can’t type. What do I do?
 
 Is there a red Commit Live...reconnect? warning at the bottom right of the terminal? 
