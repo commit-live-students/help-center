@@ -96,7 +96,7 @@ Right click on the folder where you would like to add the file/folder to the Com
 Most likely your ports are blocked on your network. Let’s try checking for this using the following steps:
 
 In your local Terminal for Ubuntu, Mac and Command Prompt in windows (NOT THE COMMIT.LIVE IDE), 
-run: `telnet 35.154.245.107 3000` and `telnet 35.154.245.107 3000`. After you run each command, you'll have to use ctrl + c to kill the connection. Each command should return something that looks like this:
+run: `telnet 35.154.245.107 3000` . After you run command, you'll have to use ctrl + c to kill the connection. Command should return something that looks like this:
 
 ```
 Trying 35.154.245.107...
