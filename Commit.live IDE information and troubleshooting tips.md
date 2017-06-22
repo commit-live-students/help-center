@@ -16,13 +16,17 @@ Is there a red Commit Live...reconnect? warning at the bottom right of the termi
 
 ![ide-disconnected.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-disconnected.png)
 
-To reconnect click on the red Commit Live...reconnect? or you can also go to Packages-->Commit Live-->Reconnect.
+To reconnect click on the red Commit Live...reconnect? 
+
+or
+
+You can also go to Packages-->Commit Live-->Reconnect.
 
 ![ide-reconnect.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-reconnect.png)
 
 If you are connected you will see the following bottom right of the terminal in gree color:
 
-![ide-connected.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-connected.png)
+![ide-connected](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-connected.jpg)
 
 # I see '401 - Bad Credentials.' in the terminal. What does this mean, and how can I fix it?
 
