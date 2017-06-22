@@ -60,7 +60,7 @@ The Commit.Live IDE will now have an updated copy of your work, and will automat
 
 # I cloned a lab using `clive open` but can't see it in the file tree. What’s going on?
 
-Are you using the IDE across multiple computers? If so, the latest code may not show up in the Commit IDE. In this case, follow the instructions in the scenario above (Can I use Learn IDE across more than one computer?).
+Are you using the Commit.Live across multiple computers? If so, the latest code may not show up in the Commit.Live IDE. In this case, follow the instructions in the scenario above (Can I use Commit.Live IDE across more than one computer?).
 
 If you are not using multiple computers, Quit and restart the IDE. JUST PRESSING THE (X) AT THE TOP OF THE WINDOW AND CLOSING IT IS NOT ENOUGH, you must close the Commit.Live IDE by using the menu options.
 
