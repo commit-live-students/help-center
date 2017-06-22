@@ -14,15 +14,15 @@ Yes. If you are unable to use the IDE due to your operating system not meeting t
 
 Is there a red Commit Live...reconnect? warning at the bottom right of the terminal? 
 
-![Click here to check how it looks](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-disconnected.png)
+![ide-disconnected.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-disconnected.png)
 
-To reconnect go to Packages-->Commit Live-->Reconnect.
+To reconnect click on the red Commit Live...reconnect? or you can also go to Packages-->Commit Live-->Reconnect.
 
-[Click here to check how it looks](https://s3.ap-south-1.amazonaws.com/commit.live.ide/ide-reconnect.png)
+![ide-reconnect.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-reconnect.png)
 
 If you are connected you will see the following bottom right of the terminal in gree color:
 
-[Click here to check how it looks](https://s3.ap-south-1.amazonaws.com/commit.live.ide/ide-connected.png)
+![ide-connected.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-connected.png)
 
 # I see '401 - Bad Credentials.' in the terminal. What does this mean, and how can I fix it?
 
