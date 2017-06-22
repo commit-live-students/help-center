@@ -32,7 +32,7 @@ If you are connected you will see the following bottom right of the terminal in 
 
 ![ide-connected](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-connected.jpg)
 
-# I see '401 - Bad Credentials.' in the terminal. What does this mean, and how can I fix it?
+# I see '401 - Bad Credentials.' in the terminal while `clive` command. What does this mean, and how can I fix it?
 
 This means your Github Token has been expired. Your Github account need to be reauthorized with Commit.Live account. Contact tech@greyatom.com to know how to fix this.
 
