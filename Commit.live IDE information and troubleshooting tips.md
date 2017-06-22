@@ -22,6 +22,18 @@ Right click on the folder where you would like to add the file/folder to the Com
 
 `CTRL + +/-` on Ubuntu, `CMD + +/-` on Mac, `ALT + up/down` on Windows.
 
+# How can I do login/logout in IDE?
+
+You can go to Packages-->Commit Live-->Log In/Out 
+
+![ide-log-in-out.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-log-in-out.png)
+
+Once you do that You will see signup page with Github(Use same Github account you used before for Commit.Live ) like below
+
+![ide-github-login.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-github-login.png)
+
+After successfull Github login you should see Terminal and file tree. If you are still unable to login/logout contact at tech@greyatom.com
+
 # How can I Reload/Refresh the IDE?
 
 Press `CTRL+SHIFT+P` on Ubuntu, `CMD+SHIFT+P` on Mac, `CTRL+SHIFT+P` on Windows. Now type `Windows:Reload` and hit enter. This will reload the IDE.
