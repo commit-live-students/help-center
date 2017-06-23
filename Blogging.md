@@ -26,6 +26,8 @@ Everyone can see your blog on the web at https://medium.com/. isn't that good?
 
 # When I Try to save my blog I am getting a message "An error occurred while saving blog. Please try again", How to fix this?
 
+![blog-save-error](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/blog-save-error.png)
+
 This means one of two things:
 
 You internet connection is broken.Check Your internet connection.
