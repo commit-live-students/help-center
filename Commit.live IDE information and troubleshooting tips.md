@@ -24,11 +24,11 @@ Right click on the folder where you would like to add the file/folder to the Com
 
 You can go to Packages-->Commit Live-->Log In/Out 
 
-![ide-log-in-out.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/log-in-out.png)
+![ide-log-in-out.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/log-in-out.png)
 
 Once you do that You will see signup page with Github(Use same Github account you used before for Commit.Live ) like below
 
-![ide-github-login.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-github-login.png)
+![ide-github-login.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-github-login.png)
 
 After successfull Github login you should see Terminal and file tree. If you are still unable to login/logout contact at tech@greyatom.com
 
@@ -36,11 +36,11 @@ After successfull Github login you should see Terminal and file tree. If you are
 
 This means you have attempted login/logout in IDE to many times in very sort span of time. You screen will look something like this in IDE
 
-![ide-reauthorization.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-reauthorization.png)
+![ide-reauthorization.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-reauthorization.png)
 
 To solve this you have to go at `app.commit.live` and do logout and login again. 
 
-![web-logout.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/web-logout.png)
+![web-logout.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/web-logout.png)
 
 Once above steps are done, now reload(as describe in next step below) the IDE and login again. You should be able to login using your Github account now.
 
@@ -48,7 +48,7 @@ Once above steps are done, now reload(as describe in next step below) the IDE an
 
 Press `CTRL+SHIFT+P` on Ubuntu, `CMD+SHIFT+P` on Mac, `CTRL+SHIFT+P` on Windows. Now type `Windows:Reload` and hit enter. This will reload the IDE.
 
-![ide-reload.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-reload.png)
+![ide-reload.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-reload.png)
 
 If above instruction does not work then quit and restart the IDE. JUST PRESSING THE (X) AT THE TOP OF THE WINDOW AND CLOSING IT IS NOT ENOUGH, you must close the Commit.Live IDE by using the menu options.
 
@@ -56,7 +56,7 @@ If above instruction does not work then quit and restart the IDE. JUST PRESSING 
 
 Is there a red Commit Live...reconnect? warning at the bottom right of the terminal? 
 
-![ide-disconnected.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-disconnected.png)
+![ide-disconnected.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-disconnected.png)
 
 To reconnect click on the red Commit Live...reconnect? 
 
@@ -64,11 +64,11 @@ or
 
 You can also go to Packages-->Commit Live-->Reconnect.
 
-![ide-reconnect.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-reconnect.png)
+![ide-reconnect.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-reconnect.png)
 
 If you are connected you will see the following bottom right of the terminal in gree color:
 
-![ide-connected](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-connected.jpg)
+![ide-connected](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-connected.jpg)
 
 # I see '401 - Bad Credentials.' in the terminal while `clive` command. What does this mean, and how can I fix it?
 
