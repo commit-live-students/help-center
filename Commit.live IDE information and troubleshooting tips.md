@@ -32,6 +32,18 @@ Once you do that You will see signup page with Github(Use same Github account yo
 
 After successfull Github login you should see Terminal and file tree. If you are still unable to login/logout contact at tech@greyatom.com
 
+# When I am trying to login in IDE it is showing "Reauthorization Required" and I am not able to see any authorization button also. How do I login in IDE now ?
+
+This means you have attempted login/logout in IDE to many times in very sort span of time. You screen will look something like this in IDE
+
+![ide-reauthorization.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/ide-reauthorization.png)
+
+To solve this you have to go at `app.commit.live` and do logout and login again. 
+
+![web-logout.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/web-logout.png)
+
+Once above steps now reload(as describe in next step below) the IDE and login again. You should be able to login using your Github account now.
+
 # How can I Reload/Refresh the IDE?
 
 Press `CTRL+SHIFT+P` on Ubuntu, `CMD+SHIFT+P` on Mac, `CTRL+SHIFT+P` on Windows. Now type `Windows:Reload` and hit enter. This will reload the IDE.
