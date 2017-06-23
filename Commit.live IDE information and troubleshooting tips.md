@@ -178,3 +178,13 @@ There seems to some problem while installing the IDE. To solve this follow below
 Some time you have to reload the web lesson page to see the updated lesson statuses. 
 
 
+# "Sign up Now" link in invition mail not working. Showing message "Token Expire or invalid. You have requested this URI..."
+
+Sign up invitation mail is valid only for 2 days from the time is has arrived in your mailbox. You have to ask for new invitation mail to join at tech@greyatom.com
+
+
+
+
+
+
+
