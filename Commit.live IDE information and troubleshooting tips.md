@@ -175,8 +175,6 @@ There seems to some problem while installing the IDE. To solve this follow below
 
 # My lesson statuses are not updated on web app.commit.Live although I have done `clive open/test/submit` successfully.
 
-![web-status-update-failed](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/web-status-update-failed.png)
-
 Some time you have to reload the web lesson page to see the updated lesson statuses. 
 
 
