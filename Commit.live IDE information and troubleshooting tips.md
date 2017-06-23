@@ -88,6 +88,10 @@ or
 
 If above solution does not work ask for help from the Commit.live at tech@greyatom.com
 
+# clive command showing "Error while updating lesson status.Please check your internet connection", how can I fix this?
+
+In this case try clive command after few minutes. If this still don't work report at tech@greyatom.com
+
 # I see 'No passwd entry for user "undefined/username"' and cannot work in the IDE, how can I fix this?
 
 This means one of two things:
