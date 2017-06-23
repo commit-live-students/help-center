@@ -23,7 +23,7 @@ Report a bug through when there is an issue with the Commit.Live.
 
 Yes, You can.
 
-# How do I get access to the Learn Slack?
+# How do I get access to the Commit.Live Slack?
 
 Try searching for an invite in your email (Searching for "Invitation for Slack GretAtom Engineers " usually works). You are automatically invited to Slack when you join the course. In case you did not find any such mail, ask for invite at tech@greyatom.com
 
