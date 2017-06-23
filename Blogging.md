@@ -24,6 +24,19 @@ As each blog is also a lesson, blog topic will be given in respective lessson Re
 # Who can see my blog?
 Everyone can see your blog on the web at https://medium.com/. isn't that good?
 
+# When I Try to save my blog I am getting a message "An error occurred while saving blog. Please try again", How to fix this?
+
+This means one of two things:
+
+You internet connection is broken.Check Your internet connection.
+
+or
+
+Request to Commit.live web services is getting rejected. Refresh page and try again (copy your blog content to another note or word file before you refresh the page)
+
+If above solution does not work ask for help from the Commit.live at tech@greyatom.com
+
+
 # Publish button is disabled and it shows a message "You don't have permission to publish blog. Please contact Commit.Live admin". How do I get a publish permission?
 
 ![web-piblish-permission](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/web-piblish-permission.png)
