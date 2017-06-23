@@ -76,6 +76,8 @@ This means your Github Token has been expired. Your Github account need to be re
 
 # `clive submit/test` command showing "It doesn't look like you're in a lesson directory.Please cd into an appropriate directory and try again", how can I fix this?
 
+![cli-github-username-changed.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/cli-github-username-changed.png)
+
 This means one of two things:
 
 1. Your not in lesson directory. Go to lesson directory by runing `cd ~/Workspace/code/<lesson-name>`
