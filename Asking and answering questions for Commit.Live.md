@@ -12,7 +12,7 @@ Or
 
 You can use Slack Channel created for your batch. If you are not added to Slack Channel already, ask tech team at tech@greyatom.com to add you in Slack Channel.
 
-It will be helpful if you can also post the screeshot of bug or step to produce the bug.
+It will be helpful if you can also post the screeshot of bug or step to re-produce the bug.
 
 
 # When should I report a bug?
