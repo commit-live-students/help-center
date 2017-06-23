@@ -173,3 +173,8 @@ There seems to some problem while installing the IDE. To solve this follow below
 4. Open the IDE again now, sign in using your Github Account again.
 5. You should be good to go now.
 
+# My lesson statuses are not updated on web app.commit.Live although I have done `clive open/test/submit` successfully.
+
+Some time you have to reload the web page to see the updated lesson statuses. 
+
+
