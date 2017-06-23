@@ -1,3 +1,8 @@
+# Why Blogging?
+
+Being better - You'll be so much better at a skill when you start writing about it, as it involves researching a topic, formulating your approach and presenting in a way that a majority of people can understand
+Boosts your overall profile - If you write about it, it means you know it.As you become an expert in a field, people start to notice and want you, helps quite a bit with landing better roles.
+
 # Is writing a Blog mandatory?
 
 Yes, The blog post is mandatory on completion of a module.
@@ -5,6 +10,8 @@ Yes, The blog post is mandatory on completion of a module.
 # Do I need to have Medium account before I can blog?
 
 Yes, You need to have a medium account to start blogging. Our integration with medium enables you to write and publish technical blogs right from Commit.Live Web App to your Medium Account directly.
+
+High viewership and the easy interface are the key reasons why we want you to blog on Medium. Medium has some great bloggers and publications on Data Science and Machine Learning, exhaustive.
 
 [Get started for Medium](https://help.medium.com/hc/en-us/categories/203573748-Welcome)
 
