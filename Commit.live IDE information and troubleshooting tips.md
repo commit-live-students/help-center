@@ -11,9 +11,9 @@ ubuntu 16.04+ (64 bit)
 
 Yes. If you are unable to use the IDE due to your operating system not meeting the requirements, please email tech@greyatom.com
 
-# Can IDE works without internet?
+# Can IDE works without the internet?
 
-No, IDE requires persistence internet connection to work. Without internet it will not work at all.
+No, IDE requires persistence internet connection to work. Without internet, it will not work at all.
 
 # How can I add file/folder to my repo using the IDE?
 
@@ -33,11 +33,11 @@ Once you do that You will see signup page with Github(Use same Github account yo
 
 ![ide-github-login.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-github-login.png)
 
-After successfull Github login you should see Terminal and file tree. If you are still unable to login/logout contact at tech@greyatom.com
+After successful Github login, you should see Terminal and file tree. If you are still unable to login/logout contact at tech@greyatom.com
 
-# When I am trying to login in IDE it is showing "Reauthorization Required" and I am not able to see any authorization button also. How do I login in IDE now ?
+# When I am trying to login in IDE it is showing "Reauthorization Required" and I am not able to see any authorization button also. How do I login in IDE now?
 
-This means you have attempted login/logout in IDE to many times in very sort span of time. You screen will look something like this in IDE
+This means you have attempted login/logout in IDE to many times in very short span of time. Your screen will look something like this in IDE
 
 ![ide-reauthorization.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-reauthorization.png)
 
@@ -45,7 +45,7 @@ To solve this you have to go at `app.commit.live` and do logout and login again.
 
 ![web-logout.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/web-logout.png)
 
-Once above steps are done, now reload(as describe in next step below) the IDE and login again. You should be able to login using your Github account now.
+Once above steps are done, now reload(as described in next step below) the IDE and login again. You should be able to login using your Github account now.
 
 # How can I Reload/Refresh the IDE?
 
@@ -69,13 +69,13 @@ You can also go to Packages-->Commit Live-->Reconnect.
 
 ![ide-reconnect.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-reconnect.png)
 
-If you are connected you will see the following bottom right of the terminal in gree color:
+If you are connected you will see the following bottom right of the terminal in green color:
 
 ![ide-connected](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-connected.png)
 
 # I see '401 - Bad Credentials.' in the terminal while `clive` command. What does this mean, and how can I fix it?
 
-This means your Github Token has been expired. Your Github account need to be reauthorized with Commit.Live account. Contact tech@greyatom.com to know how to fix this.
+This means your Github Token has been expired. Your Github account needs to be reauthorized with Commit.Live account. Contact tech@greyatom.com to know how to fix this.
 
 # `clive submit/test` command showing "It doesn't look like you're in a lesson directory.Please cd into an appropriate directory and try again", how can I fix this?
 
@@ -83,7 +83,7 @@ This means your Github Token has been expired. Your Github account need to be re
 
 This means one of two things:
 
-1. Your not in lesson directory. Go to lesson directory by runing `cd ~/Workspace/code/<lesson-name>`
+1. You are not in lesson directory. Go to lesson directory by running `cd ~/Workspace/code/<lesson-name>` in terminal
 
 or
 
@@ -93,7 +93,7 @@ If above solution does not work ask for help from the Commit.live at tech@greyat
 
 # clive command showing "Error while updating lesson status.Please check your internet connection", how can I fix this?
 
-In this case try clive command after few minutes. If this still don't work report at tech@greyatom.com
+In this case try, clive command after few minutes. If this still doesn't work report at tech@greyatom.com
 
 # I see 'No passwd entry for user "undefined/username"' and cannot work in the IDE, how can I fix this?
 
@@ -115,7 +115,7 @@ Instructions to get an already started or already completed lab from one compute
 
 1. From the computer that has your latest work, make sure your code has been pushed up to GitHub by using `clive Submit`
 
-The Commit.Live IDE will now have an updated copy of your work, and will automatically remain synced to new computer. If you want to switch back to a different computer, you'll need to follow the above steps again.
+The Commit.Live IDE will now have an updated copy of your work, and will automatically remain synced to a new computer. If you want to switch back to a different computer, you'll need to follow the above steps again.
 
 # I cloned a lab using `clive open` but can't see it in the file tree. What’s going on?
 
@@ -129,15 +129,15 @@ The current version of Commit.Live IDE and Atom both can't work together. You ne
 
 # When I click on the Commit.live Open button, it does not open the IDE
 
-If you already have Atom editor installed see the information above(I installed the IDE and now Atom doesn't work). 
+If you already have Atom editor installed, see the information above(I installed the IDE and now Atom doesn't work). 
 
 Then open the IDE manually and while the IDE is open, click on the Commit.Live open button and it should open in the IDE.
 
 # The 'clive open' command in the IDE is opening the wrong lab
 
-If that is the case, go to app.commit.lve and open the current lessson and copy lesson name form URL. For example if you current lesson is Introduction to Python Intermediate your URL will look like `https://app.commit.live/lesson/intro-to-python-intermediate`
+If that is the case, go to app.commit.lve and open the current lesson and copy lesson name from URL. For example, if you current lesson is Introduction to Python Intermediate your URL will look like `https://app.commit.live/lesson/intro-to-python-intermediate`
 
-Copy eveything after `https://app.commit.live/lesson/` from URL. In this case it is `intro-to-python-intermediate`
+Copy everything after `https://app.commit.live/lesson/` from URL. In this case, it is `intro-to-python-intermediate`
 
 Now command you have to run in IDE terminal would be `clive open intro-to-python-intermediate`. That should open the proper lab.
 
@@ -149,8 +149,8 @@ Quit and restart the IDE. JUST PRESSING THE (X) AT THE TOP OF THE WINDOW AND CLO
 
 Most likely your ports are blocked on your network. Let’s try checking for this using the following steps:
 
-In your local Terminal for Ubuntu, Mac and Command Prompt in windows (NOT THE COMMIT.LIVE IDE), 
-run: `telnet 35.154.245.107 3000` . After you run command, you'll have to use ctrl + c to kill the connection. Command should return something that looks like this:
+In your local Terminal for Ubuntu, Mac and Command Prompt in Windows (NOT THE COMMIT.LIVE IDE), 
+run: `telnet 35.154.245.107 3000` . After you run the command, you'll have to use ctrl + c to kill the connection. The Command should return something that looks like this:
 
 ```
 Trying 35.154.245.107...
@@ -158,13 +158,13 @@ Connected to ec2-35-154-245-107.ap-south-1.compute.amazonaws.com.
 Escape character is '^]'.
 ```
 
-If telnet command returns something like: `Could not open connection to the host on port xxxx`, then there is an issue with the your network settings and we recommend trying to use a different network (try using a different netweork and see if it works. You can also try downloading a VPN and connecting through that).
+If telnet command returns something like: `Could not open connection to the host on port xxxx`, then there is an issue with the your network settings and we recommend trying to use a different network (try using a different network and see if it works. You can also try downloading a VPN and connecting through that).
 
-# I am getting "Uncaught typeError: Cannot set property '0' of undefined" and now am not able to type anything in terminal, how can I fix this? 
+# I am getting "Uncaught typeError: Cannot set property '0' of undefined" and now am not able to type anything in the terminal, how can I fix this? 
 
 ![0-of-undefined](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/0-of-undefined.png)
 
-This happens when you try to open file using vi/nano (or some similiar file editor command). In this case file format which you are trying to open is not support in teminal. 
+This happens when you try to open the file using vi/nano (or some similar file editor command). In this case the file format which you are trying to open is not support in terminal. 
 
 To solve this quit and restart the IDE. 
 
@@ -182,10 +182,10 @@ There seems to some problem while installing the IDE. To solve this follow below
 
 # My lesson statuses are not updated on web app.commit.Live although I have done `clive open/test/submit` successfully.
 
-Some time you have to reload the web lesson page to see the updated lesson statuses. 
+Sometime you have to reload the web lesson page to see the updated lesson statuses. 
 
 
-# "Sign up Now" link in invition mail not working. Showing message "Token Expire or invalid. You have requested this URI..."
+# "Sign up Now" link in invitation mail not working. Showing message "Token Expire or invalid. You have requested this URI..."
 
 Sign up invitation mail is valid only for 2 days from the time is has arrived in your mailbox. You have to ask for new invitation mail to join at tech@greyatom.com
 
