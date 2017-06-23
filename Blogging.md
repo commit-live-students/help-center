@@ -19,7 +19,7 @@ Everyone can see your blog on https://medium.com/. isn't that good?
 
 # Publush button is disable and it shows a message "You don't have permission to publish blog. Please contact Commit.Live admin". How do I get a publish permission ?
 
-![web-piblish-permission](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/web-piblish-permission)
+![web-piblish-permission](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/web-piblish-permission.png)
 
 For publishing blog You need to be added as writer under Greyatom publication on Medium plateform. You are seeing this because you are not added as writer yet. 
 
