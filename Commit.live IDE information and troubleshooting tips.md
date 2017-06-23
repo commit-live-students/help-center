@@ -74,6 +74,18 @@ If you are connected you will see the following bottom right of the terminal in 
 
 This means your Github Token has been expired. Your Github account need to be reauthorized with Commit.Live account. Contact tech@greyatom.com to know how to fix this.
 
+# `clive submit/test` command showing "It doesn't look like you're in a lesson directory.Please cd into an appropriate directory and try again", how can I fix this?
+
+This means one of two things:
+
+1. Your not in lesson directory. Go to lesson directory by runing `cd ~/Workspace/code/<lesson-name>`
+
+or
+
+2. You changed your GitHub username between when your account was created on the IDE server and when you tried to do clive command. You should change your Github username back to what it was at time of Commit.Live signup.
+
+If above solution does not work ask for help from the Commit.live at tech@greyatom.com
+
 # I see 'No passwd entry for user "undefined/username"' and cannot work in the IDE, how can I fix this?
 
 This means one of two things:
