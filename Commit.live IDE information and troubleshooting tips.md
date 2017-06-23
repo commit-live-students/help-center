@@ -42,7 +42,7 @@ To solve this you have to go at `app.commit.live` and do logout and login again.
 
 ![web-logout.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/web-logout.png)
 
-Once above steps now reload(as describe in next step below) the IDE and login again. You should be able to login using your Github account now.
+Once above steps are done, now reload(as describe in next step below) the IDE and login again. You should be able to login using your Github account now.
 
 # How can I Reload/Refresh the IDE?
 
