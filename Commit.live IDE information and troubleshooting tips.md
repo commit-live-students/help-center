@@ -68,7 +68,7 @@ You can also go to Packages-->Commit Live-->Reconnect.
 
 If you are connected you will see the following bottom right of the terminal in gree color:
 
-![ide-connected](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-connected.jpg)
+![ide-connected](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/ide-connected.png)
 
 # I see '401 - Bad Credentials.' in the terminal while `clive` command. What does this mean, and how can I fix it?
 
