@@ -22,7 +22,7 @@ Right click on the folder where you would like to add the file/folder to the Com
 
 # How can I do login/logout in IDE?
 
-You can go to Packages-->Commit Live-->Log In/Out 
+You can go to File Menu ->Packages-->Commit Live-->Log In/Out 
 
 ![ide-log-in-out.png](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/log-in-out.png)
 
@@ -139,7 +139,7 @@ Escape character is '^]'.
 
 If telnet command returns something like: `Could not open connection to the host on port xxxx`, then there is an issue with the your network settings and we recommend trying to use a different network (try using a different netweork and see if it works. You can also try downloading a VPN and connecting through that).
 
-# I am getting "Uncaught typeError: Cannot set property '0' of undefined" and now am not able to type anything in terminal, how can I fix this ? 
+# I am getting "Uncaught typeError: Cannot set property '0' of undefined" and now am not able to type anything in terminal, how can I fix this? 
 
 ![0-of-undefined](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/0-of-undefined.png)
 
@@ -147,7 +147,15 @@ This happens when you try to open file using vi/nano (or some similiar file edit
 
 To solve this quit and restart the IDE. 
 
+# I am getting "SFTP connection attempt failed" and I am not able to see file tree. How can I get it to appear?
 
+![sftp-connection-failed](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/sftp-connection-failed.png)
 
+There seems to some problem while installing the IDE. To solve this follow below instructions
 
+1. Logout from IDE, that can be done by File Menu ->Packages-->Commit Live-->Log In/Out 
+2. Close the IDE.JUST PRESSING THE (X) AT THE TOP OF THE WINDOW AND CLOSING IT IS NOT ENOUGH, you must close the Commit.Live IDE by using the menu options.
+3. Open your native terminal (not IDE terminal), run command `rm -rf ~/.atom/.commit-live`
+4. Open the IDE again now, sign in using your Github Account again.
+5. You should be good to go now.
 
