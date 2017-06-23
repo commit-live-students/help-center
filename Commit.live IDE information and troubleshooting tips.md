@@ -52,7 +52,7 @@ Press `CTRL+SHIFT+P` on Ubuntu, `CMD+SHIFT+P` on Mac, `CTRL+SHIFT+P` on Windows.
 
 If above instruction does not work then quit and restart the IDE. JUST PRESSING THE (X) AT THE TOP OF THE WINDOW AND CLOSING IT IS NOT ENOUGH, you must close the Commit.Live IDE by using the menu options.
 
-# The IDE isn't working for me. The text is "Unable to connect to Commit Live" in the terminal and I can’t type. What do I do?
+# The IDE isn't working for me. The text is "Unable to connect to Commit Live" in the terminal and I can’t type. how can I fix this?
 
 Is there a red Commit Live...reconnect? warning at the bottom right of the terminal? 
 
@@ -138,5 +138,16 @@ Escape character is '^]'.
 ```
 
 If telnet command returns something like: `Could not open connection to the host on port xxxx`, then there is an issue with the your network settings and we recommend trying to use a different network (try using a different netweork and see if it works. You can also try downloading a VPN and connecting through that).
+
+# I am getting "Uncaught typeError: Cannot set property '0' of undefined" and now am not able to type anything in terminal, how can I fix this ? 
+
+![0-of-undefined](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/0-of-undefined.png)
+
+This happens when you try to open file using vi/nano (or some similiar file editor command). In this case file format which you are trying to open is not support in teminal. 
+
+To solve this quit and restart the IDE. 
+
+
+
 
 
