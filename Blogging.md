@@ -6,7 +6,7 @@ Yes, The blog post is mandatory on completion of a module.
 
 Yes,You need to have a medium account to start blogging. Our integration with medium enables you to write and publish technical blogs right from commit live Web App to your Medium Account directly.
 
-[You can get started here for Medium](https://help.medium.com/hc/en-us/categories/203573748-Welcome)
+[Get started for Medium](https://help.medium.com/hc/en-us/categories/203573748-Welcome)
 
 All your blog will be published under the Greyatom publication on medium platform. Once you write, save and publish the blog through Commit.Live, It will go for review to Greyatom publication.Once approved it will start showing on medium.
 
