@@ -1,3 +1,6 @@
+
+Commit Live IDE is a professional integrated development environment. It is a cross-platform application (OS X, Linux) that allows Greyatom students to write code in a modern text editor and uses a fully-configured Terminal. The application is a custom variant of GitHub’s Atom text editor combined with a fully-configured, virtualized terminal. The Commit Live IDE uses the same open-source technologies that thousands of professional developers use every day, so when you're using the IDE, you're using the same real tools that developers use. 
+
 # What operating systems and versions does the IDE work on?
 
 OSX 10.8+
