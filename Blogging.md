@@ -17,4 +17,10 @@ As each blog is also a lesson, blog topic will be given in repective lessson Rea
 # Who can see my blog ?
 Everyone can see your blog on https://medium.com/. isn't that good?
 
+# Can I edit my blog once I published it from Commit.Live?
+
+Yes, You can edit the blog after it has been published using the link "Edit This Blog On Medium". This will take you yo respective medium blog for edit.
+
+![web-edit-blog](https://raw.githubusercontent.com/commit-live-students/help-center/master/img/web-edit-blog.png)
+
 
